@@ -27,3 +27,5 @@ override.tf.json
 
 #Ignore terraform lock
 .terraform.lock.*
+
+sample.txt

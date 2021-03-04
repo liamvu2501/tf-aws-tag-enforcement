@@ -1,1 +1,1 @@
-# tf-aws-tag-enforcement
+# Force tagging on EC2 resources
